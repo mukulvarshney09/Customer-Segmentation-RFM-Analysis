@@ -3,7 +3,6 @@
 ## Goal of the project
 The objective is to conduct a Customer Segment Analysis for an automobile bike company utilizing the RFM (Recency, Frequency, Monetary) model. This behavior-based approach categorizes customers into segments to determine which segments should be targeted for enhanced sales revenue.
 
-
 ## Analysis Techniques:
 ### 1.	Data Quality Assessment and Data Cleaning
 
@@ -42,3 +41,31 @@ Implement key processes:
 -	In NSW, most people don't own a car.
 -	Victoria shows a relatively even car ownership proportion.
 -	In Queensland, more people own a car than those who don't.
+
+## RFM Analysis and Customer Segmentation
+
+In this stage of analysis, the customer segmentation was done by developing an RFM Model. The RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers based on their previous purchase transactions. Here, the customer segment was divided into 11 groups. The groups are:
+
+- Platinum Customers
+- Very Loyal Customers
+- Recent Customers
+- Potential Customers
+- Lost Customers
+- Losing Customers
+- Late Bloomer
+- High-Risk Customers
+- Evasive Customers
+- Becoming Loyal
+- Almost lost Customers
+
+### Datasets used
+
+The dataset includes [Raw Data](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/blob/main/Raw_data.xlsx) file having different sheets inside it. The sheets are: Transactions, New Customer List, Customer Demographic, and Customer Addresses.
+
+### Python Files
+- [RFM Analysis](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/blob/main/RFP_Analysis.ipynb)
+- [Data Cleaning - Transactions](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/blob/main/DQA_Transcation.ipynb)
+- [Data Cleaning - New Customer List](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/blob/main/DQA_New_Customer_List.ipynb)
+- [Data Cleaning - Customer Demographic](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/blob/main/DQA_Customer_Demographic.ipynb)
+- [Data Cleaning - Customer Addresses](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/blob/main/DQA_Customer_Address.ipynb)
+

@@ -72,7 +72,16 @@ In this stage of analysis, the customer segmentation was done by developing an R
 
 ![6](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/b4cff93c-d744-4ff1-bd96-05f15adbc8bb)
 
+## RFM Analysis: Scatter Plots
+### Recency vs Monetary:
+The visualization shows that recent customers have purchased more products and generated relatively more revenue than the customers who visited a while ago.
 
+![7](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/1e9048da-52f1-4cc0-a40a-631edc95b164)
+
+### Frequency vs Monetary:
+The visualization shows that customers belonging to Platinum/ Very Loyal/ Becoming Loyal Customer Segments have a greater frequency and generate greater monetary for the business.
+
+![8](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/127a693c-0fca-468a-90be-6ec951308f07)
 
 ### Datasets used
 

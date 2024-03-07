@@ -25,6 +25,8 @@ Implement key processes:
 -	Lowest number of customers below 20 and above 80.
 -	Note a drop in the 30-39 age group among new customers.
 
+![1](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/44710d8e-53e0-4d22-8cb1-92438797a1ff) ![2](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/d100bcb0-8906-48b4-80b8-3a2d8322c9d0)
+
 #### b)	Bike purchased over last 3 years by gender
 -	Women constitute approximately 51% of total bike purchases.
 -	Female purchases exceed 9500, surpassing male purchases in the count.

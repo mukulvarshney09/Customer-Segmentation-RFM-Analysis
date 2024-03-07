@@ -25,24 +25,34 @@ Implement key processes:
 -	Lowest number of customers below 20 and above 80.
 -	Note a drop in the 30-39 age group among new customers.
 
-![1](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/44710d8e-53e0-4d22-8cb1-92438797a1ff) ![2](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/d100bcb0-8906-48b4-80b8-3a2d8322c9d0)
+![WhatsApp Image 2024-03-07 at 2 32 32 PM](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/64a3f4d2-1867-4506-ba62-c812aba3e43a)
 
 #### b)	Bike purchased over last 3 years by gender
 -	Women constitute approximately 51% of total bike purchases.
 -	Female purchases exceed 9500, surpassing male purchases in the count.
 
+![3](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/0d1e82fa-666e-4921-81a2-306bf8a26bbf)
+
 #### c)	New vs old customers Job Industry distribution
 -	Most new customers are from manufacturing and financial services.
 -	The lowest number of customers are from Agriculture and Telecommunication.
+
+![1](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/4ee13b97-8074-4678-9636-af7fbb454e25)
+![2](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/5e159678-27ca-45b3-90aa-b64104b42fa5)
 
 #### d)	Wealth Segmentation by Age Category
 -	Across all age categories, the largest customers are in the "Mass Customer" segment.
 -	Among new customers, affluent customers surpass high-net-worth individuals in specific age groups.
 
+![3](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/a6298668-c096-478e-b28b-d50ea8d94f0e)
+![4](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/6fc8e5c3-b10b-4ed5-9605-ffef7d117b59)
+
 #### e)	Car owns across each state
 -	In NSW, most people don't own a car.
 -	Victoria shows a relatively even car ownership proportion.
 -	In Queensland, more people own a car than those who don't.
+
+![5](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/1509e5fd-0210-44ba-a771-264e4b6d64fc)
 
 ## RFM Analysis and Customer Segmentation
 
@@ -59,6 +69,10 @@ In this stage of analysis, the customer segmentation was done by developing an R
 - Evasive Customers
 - Becoming Loyal
 - Almost lost Customers
+
+![6](https://github.com/mukulvarshney09/Customer-Segmentation-RFM-Analysis/assets/123244732/b4cff93c-d744-4ff1-bd96-05f15adbc8bb)
+
+
 
 ### Datasets used
 

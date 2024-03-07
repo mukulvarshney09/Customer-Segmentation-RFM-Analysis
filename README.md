@@ -1,6 +1,6 @@
 ## Customer Segment Analysis using RFM model
 
-Goal of the project
+## Goal of the project
 The objective is to conduct a Customer Segment Analysis for an automobile bike company utilizing the RFM (Recency, Frequency, Monetary) model. This behavior-based approach categorizes customers into segments to determine which segments should be targeted for enhanced sales revenue.
 
 
